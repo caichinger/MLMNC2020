@@ -10,7 +10,7 @@ The material for each session resides in a separate folder.
 
 - [Directory of Classes](http://vvz.wu.ac.at/cgi-bin/vvz.pl?C=L;I=1897;LV=3;L2=S;L3=S;U=H;S=20W;LANG=DE)
 - [Syllabus](https://learn.wu.ac.at/vvz/20w/1897)
-- http://tiny.cc/mlmnc (points to this repository)
+- https://short.wu.ac.at/MLMNC (points to this repository)
 
 
 ## Sessions
