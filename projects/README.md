@@ -2,12 +2,12 @@
 
 ## Groups:
 
-1.
-2.
-3. 
-4. 
-5.
-6. 
+1. Audit Data Set
+2. Telco Customer Churn
+3. Bank Marketing Data Set
+4. Bank Marketing Data Set
+5. Telco Customer Churn 
+6. Audit Data Set
 
 ## Deadlines
 
